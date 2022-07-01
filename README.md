@@ -2,7 +2,7 @@
 
 This is a simple REST API that connects to a database, allowing the user to create or select users already saved in the database. 
 
-DB login:
+#### DB login:
 ~~~
 user: root
 password: 123456
@@ -19,4 +19,3 @@ This API only has GET (/api/usuario/{code}) and POST (/api/usuario/salvar). Use 
   "senha": "123"
 }
 ~~~
-
